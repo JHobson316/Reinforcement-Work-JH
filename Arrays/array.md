@@ -17,7 +17,7 @@ In your own words, when should we use an array?
  What are 3 kinds of array methods, and how do we use them?
 
  - Question 5
- What ar two examples of higher order Array methods? 
+ What are two examples of higher order Array methods? 
 
 
 

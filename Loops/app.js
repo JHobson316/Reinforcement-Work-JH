@@ -13,10 +13,13 @@
   const eggs = [81, 75, 75, 81, 32, 75, 81, 75, 81];
 
   // 1. Show array apples.
+  console.log(apples);
 
   // 2. Show how many elements are in array apples.
+  console.log(apples.length);
 
   // 3. Calculate the sum of the numbers in array apples.
+  
 
   // show the final result
 
